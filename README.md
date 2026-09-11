@@ -25,7 +25,7 @@ The objective was to transform fragmented secondary information from academic, i
 * **Microsoft Power BI**
 * **DAX**
 
-## 📊 Dataset
+## Dataset
 The team consolidated four datasets into a Master Dataset containing:
 * **1,284 records**
 * **11 analytical variables**
